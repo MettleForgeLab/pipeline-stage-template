@@ -1,4 +1,4 @@
-# datadiddler-lens-template
+# pipeline-stage-template
 
 **Status:** Initial template  
 **Version:** 0.1.0  
