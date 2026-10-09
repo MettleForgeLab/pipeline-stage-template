@@ -7,7 +7,7 @@
 
 This repository defines the standard structure for future DataDiddler lens repos.
 
-It derives from the published `datadiddler-kernel` contract surface and exists to standardize:
+It derives from the published `text-pipeline-orchestrator` contract surface and exists to standardize:
 
 - lens repo shape
 - CLI expectations
